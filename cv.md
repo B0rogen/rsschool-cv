@@ -37,7 +37,7 @@ print_text(text, elem, delay);
 ## Education and courses
 * Horlivka Institute for Foreign Languages HSEE «Donbas State Pedagogical University»
 * FreeCodeCamp
-* 
+
 ***
 ## Languages
 * **Ukrainian** - native speaker
