@@ -34,6 +34,9 @@ var print_text = function(text, elem, delay) {
 print_text(text, elem, delay);
 ```
 ***
+## Experience
+
+***
 ## Education and courses
 * Horlivka Institute for Foreign Languages HSEE «Donbas State Pedagogical University»
 * FreeCodeCamp
