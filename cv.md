@@ -1,8 +1,8 @@
 # Borysov Roman
 ## Contacts
-* **Discord:**
-* **E-mail:**
-* **Phone:**
+* **Discord:** b0r0geN
+* **E-mail:** borysov.r.g@gmail.com
+* **Phone:** +380633031632
 
 ***
 ## About Me
