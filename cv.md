@@ -9,7 +9,10 @@
 I want to learn Front-End Development in RSSchool
 ***
 ## Skills
-
+* HTML
+* CSS
+* GitHub
+* JavaScript (Basic)
 ***
 ## Code Example
 ```
