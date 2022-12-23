@@ -13,6 +13,7 @@ I want to learn Front-End Development in RSSchool
 * CSS
 * GitHub
 * JavaScript (Basic)
+
 ***
 ## Code Example
 ```
@@ -34,7 +35,9 @@ print_text(text, elem, delay);
 ```
 ***
 ## Education and courses
-
+* Horlivka Institute for Foreign Languages HSEE «Donbas State Pedagogical University»
+* FreeCodeCamp
+* 
 ***
 ## Languages
 * **Ukrainian** - native speaker
